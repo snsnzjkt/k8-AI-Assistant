@@ -1,4 +1,4 @@
-# k8: AI Personal Assistant
+# Multi-Agent AI Assistant via Telegram
 
 A comprehensive AI-powered personal assistant built with n8n that helps you manage emails, calendar events, and contacts through natural language commands via Telegram.
 
